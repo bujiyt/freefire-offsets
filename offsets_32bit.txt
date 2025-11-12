@@ -1,0 +1,65 @@
+═══════════════════════════════════════
+        INTERNAL OFFSETS - FREE FIRE 32BIT
+═══════════════════════════════════════
+
+═══════════════════════════════════════
+BONE OFFSETS
+═══════════════════════════════════════
+        Head = 0x3B8,
+        Root = 0x3CC,
+        LeftWrist = 0x3B4,
+        Spine = 0x3C0,
+        Hip = 0x3C8,
+        RightCalf = 0x3D0,
+        LeftCalf = 0x3D4,
+        RightFoot = 0x3D8,
+        LeftFoot = 0x3DC,
+        RightWrist = 0x3E0,
+        LeftHand = 0x3E4,
+        LeftShoulder = 0x3EC,
+        RightShoulder = 0x3F0,
+        RightWristJoint = 0x3F4,
+        LeftWristJoint = 0x3F8,
+        LeftElbow = 0x400,
+        RightElbow = 0x3FC,
+
+═══════════════════════════════════════
+MAIN OFFSETS
+═══════════════════════════════════════
+      InitBase = 0x983EF10;
+      StaticClass = 0x5C;
+      CurrentMatch = 0x50;
+      MatchStatus = 0x3C;
+      LocalPlayer = 0x44;
+      DictionaryEntities = 0x68;
+      Player_IsDead = 0xCC;
+      Player_Name = 0x24C;
+      Player_Data = 0x44;
+      Player_ShadowBase = 0x149C;
+      XPose = 0x78;
+      AvatarManager = 0x420;
+      Avatar = 0x94;
+      Avatar_IsVisible = 0x7C;
+      Avatar_Data = 0x10;
+      Avatar_Data_IsTeam = 0x51;
+      FollowCamera = 0x3B0;
+      Camera = 0x14;
+      AimRotation = 0x368;
+      MainCameraTransform = 0x1BC;
+      Weapon = 0x35C;
+      WeaponData = 0x54;
+      WeaponRecoil = 0xC;
+      ViewMatrix = 0x98 + 0x24; OR 0xBC
+
+═══════════════════════════════════════
+AIM VISIBLE
+═══════════════════════════════════════
+    AIMBOT VISIBLE = 0x404
+
+═══════════════════════════════════════
+SILENT AIM
+═══════════════════════════════════════
+    AIM1 = 0x874
+    AIM2 = 0x4A0
+    AIM3 = 0x2C , 0x2C , 0x2C , 0x2C
+    AIM4 = 0x38 , 0x38 , 0x38
